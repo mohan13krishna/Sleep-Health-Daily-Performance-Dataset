@@ -253,7 +253,7 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 This dataset is also available on [Kaggle](https://kaggle.com) for discovery by the broader machine learning community.
 
 **To access on Kaggle:**
-1. Visit: https://www.kaggle.com/datasets/mohan13krishna/sleep-health-daily-performance-dataset
+1. Visit: [https://www.kaggle.com/datasets/mohan13krishna/sleep-health-daily-performance-dataset](https://www.kaggle.com/datasets/mohankrishnathalla/sleep-health-and-daily-performance-dataset)
 2. Download directly or access via Kaggle API:
    ```bash
    kaggle datasets download -d mohan13krishna/sleep-health-daily-performance-dataset
