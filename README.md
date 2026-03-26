@@ -78,8 +78,8 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - `weekend_sleep_diff_hrs`: Weekend sleep difference vs weekday (-1 to +3 hours)
 
 ### Environmental (2 features)
-- `season`: Spring / Summer / Autumn / Winter
-- `day_type`: Weekday / Weekend
+- `season`: Time of year (Spring / Summer / Autumn / Winter)
+- `day_type`: Weekday/weekend indicator (Weekday / Weekend)
 
 ## 🔬 Scientific Validation
 
