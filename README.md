@@ -214,8 +214,9 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 - International Labour Organization (ILO) shift work health impact study
 
 ### Cognitive Science
-- Deelder, J. D., et al. (2021). Sleep, Memory Consolidation, and Learning.
+- Deelder, J. D., et al. (2021). Sleep, Memory Consolidation, and Learning. *Current Opinion in Behavioral Sciences*.
 - Walker, M. P. (2017). *Why We Sleep*. Scribner.
+- Goel, N., et al. (2009). Circadian rhythms, sleep deprivation, and human performance. *Progress in Molecular Biology and Translational Science*.
 
 ### Psychometric Validation
 - Pittsburgh Sleep Quality Index (PSQI) — Sleep quality measurement
