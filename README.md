@@ -65,10 +65,10 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - `nap_duration_mins`: Minutes (0–120)
 
 ### Psychological (4 features)
-- `stress_score`: Perceived stress (1–10)
-- `work_hours_that_day`: Hours worked (0–18)
-- `chronotype`: Morning / Evening / Neutral
-- `mental_health_condition`: Healthy / Anxiety / Depression / Both
+- `stress_score`: Perceived stress level (1–10 scale)
+- `work_hours_that_day`: Hours worked in a day (0–18 hours)
+- `chronotype`: Sleep timing preference (Morning / Evening / Neutral)
+- `mental_health_condition`: Baseline condition (Healthy / Anxiety / Depression / Both)
 
 ### Health Context (5 features)
 - `heart_rate_resting_bpm`: Resting heart rate (45–100 bpm)
