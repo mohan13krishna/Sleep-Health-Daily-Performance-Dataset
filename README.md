@@ -71,11 +71,11 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - `mental_health_condition`: Baseline condition (Healthy / Anxiety / Depression / Both)
 
 ### Health Context (5 features)
-- `heart_rate_resting_bpm`: Resting heart rate (45–100 bpm)
-- `sleep_aid_used`: Binary (0/1)
-- `shift_work`: Binary (0/1)
-- `room_temperature_celsius`: Temperature (15–28°C)
-- `weekend_sleep_diff_hrs`: Weekend sleep difference (-1–3 hrs)
+- `heart_rate_resting_bpm`: Resting heart rate (45–100 beats per minute)
+- `sleep_aid_used`: Sleep aid medication (0=No, 1=Yes)
+- `shift_work`: Shift work status (0=Regular, 1=Shift work)
+- `room_temperature_celsius`: Bedroom temperature (15–28°C range)
+- `weekend_sleep_diff_hrs`: Weekend sleep difference vs weekday (-1 to +3 hours)
 
 ### Environmental (2 features)
 - `season`: Spring / Summer / Autumn / Winter
