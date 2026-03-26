@@ -104,13 +104,16 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 ## 📁 Files
 
 ```
-sleep_health_dataset.csv      # Main dataset (100K rows)
-generate_sleep_dataset.py     # Reproducible generation script
+sleep_health_dataset.csv      # Main dataset (100K rows, 32 columns, 23.5 MB)
 README.md                     # This file
-DATASET_DICTIONARY.md         # Detailed feature descriptions
-METHODOLOGY.md               # Technical documentation
-LICENSE                      # MIT License
+generate_sleep_dataset.py     # Dataset generation script (reproducible, seed=42)
 ```
+
+### Dataset Format
+- **Format:** CSV (comma-separated values)
+- **Encoding:** UTF-8
+- **Header:** Yes (feature names in first row)
+- **Separator:** , (comma)
 
 ## 🚀 Usage Examples
 
