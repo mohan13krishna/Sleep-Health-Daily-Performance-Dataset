@@ -236,6 +236,11 @@ This dataset is also available on [Kaggle](https://kaggle.com) for discovery by 
    kaggle datasets download -d mohan13krishna/sleep-health-daily-performance-dataset
    ```
 
+#### Upload Status
+- ✅ Dataset uploaded to Kaggle
+- ✅ Available for public download
+- ✅ Integrated with Kaggle competitions
+
 ### Why Use This Dataset?
 - **Production-Grade Quality:** 100K records with validated correlations
 - **Multiple Learning Tasks:** Regression, multiclass, and binary targets
