@@ -29,6 +29,7 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - **Distribution:** 55% Healthy, 25% Mild, 14% Moderate, 6% Severe
 - **Basis:** Point-based risk scoring from sleep architecture, stress, BMI, age, shift work
 - **Use Case:** Sleep disorder classification and risk stratification
+- **Clinical Validation:** Calibrated to epidemiological prevalence data
 
 ### 3. **felt_rested** (Binary)
 - **Type:** Binary [0=Not Rested, 1=Rested]
