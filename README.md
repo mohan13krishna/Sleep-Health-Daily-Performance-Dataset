@@ -147,13 +147,19 @@ print(f"R² Score: {r2_score(y_test, y_pred):.3f}")
 ```python
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, confusion_matrix
 
 X = df.drop(['sleep_disorder_risk', 'person_id'], axis=1).select_dtypes(include='number')
 y = df['sleep_disorder_risk']
 
-model = RandomForestClassifier(n_estimators=100, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model = RandomForestClassifier(n_estimators=100, random_state=42, n_jobs=-1)
 model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
 print(f"Accuracy: {model.score(X_test, y_test):.3f}")
+print("\nClassification Report:")
+print(classification_report(y_test, y_pred))
 ```
 
 ## 📊 Occupational Profiles
