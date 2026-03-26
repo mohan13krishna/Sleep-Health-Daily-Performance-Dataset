@@ -211,6 +211,7 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 ### Occupational Sleep Patterns
 - Sleep Medicine Reviews (2022) — Shift work systematic review
 - Frontiers in Sleep (2025) — Occupation-specific sleep disorders
+- International Labour Organization (ILO) shift work health impact study
 
 ### Cognitive Science
 - Deelder, J. D., et al. (2021). Sleep, Memory Consolidation, and Learning.
