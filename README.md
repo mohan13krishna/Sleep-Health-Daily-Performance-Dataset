@@ -129,14 +129,18 @@ print(df.describe())
 ```python
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error, r2_score
 
 X = df.drop(['cognitive_performance_score', 'person_id'], axis=1).select_dtypes(include='number')
 y = df['cognitive_performance_score']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
-model = RandomForestRegressor(n_estimators=100, n_jobs=-1)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model = RandomForestRegressor(n_estimators=100, n_jobs=-1, random_state=42)
 model.fit(X_train, y_train)
-print(f"R² Score: {model.score(X_test, y_test):.3f}")
+
+y_pred = model.predict(X_test)
+print(f"MAE:  {mean_absolute_error(y_test, y_pred):.2f}")
+print(f"R² Score: {r2_score(y_test, y_pred):.3f}")
 ```
 
 ### Classification: Predict Sleep Disorder Risk
