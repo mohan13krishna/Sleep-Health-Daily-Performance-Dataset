@@ -49,12 +49,12 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - `country`: 15 nations globally distributed
 
 ### Sleep Architecture (6 features)
-- `sleep_duration_hrs`: Hours slept (3.0–10.5)
-- `sleep_quality_score`: Subjective (1–10)
-- `rem_percentage`: REM sleep (10–30%)
-- `deep_sleep_percentage`: Deep sleep (5–30%)
-- `sleep_latency_mins`: Minutes to fall asleep (1–60)
-- `wake_episodes_per_night`: Number of awakenings (0–8)
+- `sleep_duration_hrs`: Hours slept (3.0–10.5 hours)
+- `sleep_quality_score`: Subjective quality rating (1–10 scale)
+- `rem_percentage`: REM sleep percentage (10–30% of total sleep)
+- `deep_sleep_percentage`: Deep/slow-wave sleep (5–30% of total sleep)
+- `sleep_latency_mins`: Minutes to fall asleep (1–60 minutes)
+- `wake_episodes_per_night`: Number of awakenings (0–8 episodes)
 
 ### Lifestyle (6 features)
 - `caffeine_mg_before_bed`: mg consumed (0–400)
