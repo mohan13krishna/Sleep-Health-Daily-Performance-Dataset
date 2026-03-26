@@ -31,7 +31,7 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - **Use Case:** Sleep disorder classification and risk stratification
 - **Clinical Validation:** Calibrated to epidemiological prevalence data
 
-### 3. **felt_rested** (Binary)
+### 3. **felt_rested** (Binary) 😴
 - **Type:** Binary [0=Not Rested, 1=Rested]
 - **Distribution:** ~36–40% report feeling rested
 - **Drivers:** Sleep duration, quality, wake episodes, stress, daily challenges
