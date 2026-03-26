@@ -42,11 +42,11 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 
 ### Demographics (6 features)
 - `person_id`: Unique identifier (1–100,000)
-- `age`: 18–69 years (working-age skew)
+- `age`: 18–69 years (working-age population bias)
 - `gender`: Male / Female / Other
 - `occupation`: 12 professional categories
-- `bmi`: Body Mass Index (16–45)
-- `country`: 15 nations
+- `bmi`: Body Mass Index (16–45 kg/m²)
+- `country`: 15 nations globally distributed
 
 ### Sleep Architecture (6 features)
 - `sleep_duration_hrs`: Hours slept (3.0–10.5)
