@@ -24,7 +24,7 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - **Use Case:** Predict workplace/academic performance from sleep metrics
 - **Research-Backed:** r² correlation with sleep quality = 0.62
 
-### 2. **sleep_disorder_risk** (Multiclass)
+### 2. **sleep_disorder_risk** (Multiclass) 🏥
 - **Type:** Categorical [Healthy, Mild, Moderate, Severe]
 - **Distribution:** 55% Healthy, 25% Mild, 14% Moderate, 6% Severe
 - **Basis:** Point-based risk scoring from sleep architecture, stress, BMI, age, shift work
