@@ -153,7 +153,7 @@ print(f"Accuracy: {model.score(X_test, y_test):.3f}")
 
 ## 📊 Occupational Profiles
 
-Each occupation has distinct sleep patterns reflecting their work environment:
+Each occupation has distinct sleep patterns reflecting their work environment and lifestyle:
 
 | Occupation | Avg Sleep | Quality | Stress | Work Hrs | Shift % | Disorder Risk |
 |-------------|-----------|---------|--------|----------|---------|---------------|
