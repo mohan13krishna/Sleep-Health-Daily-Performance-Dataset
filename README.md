@@ -264,13 +264,17 @@ This dataset is also available on [Kaggle](https://kaggle.com) for discovery by 
 - ✅ Available for public download
 - ✅ Integrated with Kaggle competitions
 
-### Why Use This Dataset?
-- **Production-Grade Quality:** 100K records with validated correlations
-- **Multiple Learning Tasks:** Regression, multiclass, and binary targets
-- **Domain Expertise:** Built on sleep medicine research, not synthetic noise
-- **Educational Value:** Understanding occupational health disparities
-- **Real-World Relevance:** Applicable to healthcare, HR, performance analytics
-- **Research Potential:** Fertile ground for feature engineering and ML experimentation
+## 💾 Download
+
+### Direct Download
+- Download from GitHub: [sleep_health_dataset.csv](https://github.com/mohan13krishna/Sleep-Health-Daily-Performance-Dataset/raw/master/sleep_health_dataset.csv)
+- Size: ~23.5 MB
+- Format: CSV (UTF-8 encoded)
+
+### Kaggle Download
+```bash
+kaggle datasets download -d mohan13krishna/sleep-health-daily-performance-dataset
+```
 
 ## 📄 License
 
