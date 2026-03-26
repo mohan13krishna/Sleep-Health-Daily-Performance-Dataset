@@ -36,6 +36,7 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - **Distribution:** ~36–40% report feeling rested
 - **Drivers:** Sleep duration, quality, wake episodes, stress, daily challenges
 - **Use Case:** Subjective well-being prediction
+- **Predictive Value:** Captures perceived sleep adequacy vs. objective metrics
 
 ## 📋 Feature Categories
 
