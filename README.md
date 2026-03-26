@@ -219,8 +219,9 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 - Goel, N., et al. (2009). Circadian rhythms, sleep deprivation, and human performance. *Progress in Molecular Biology and Translational Science*.
 
 ### Psychometric Validation
-- Pittsburgh Sleep Quality Index (PSQI) — Sleep quality measurement
-- Perceived Stress Scale (PSS-10) — Psychological stress assessment
+- Pittsburgh Sleep Quality Index (PSQI) — Sleep quality measurement standard
+- Perceived Stress Scale (PSS-10) — Validated psychological stress assessment
+- Beck Depression Inventory (BDI-II) — Clinical depression screening tool
 
 ## 📈 Performance Benchmarks
 
