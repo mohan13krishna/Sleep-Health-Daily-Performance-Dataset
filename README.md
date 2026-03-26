@@ -225,10 +225,10 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 
 ## 📈 Performance Benchmarks
 
-### Baseline Model Performance (Random Forest)
-- **Cognitive Performance (Regression):** MAE ~7.5 points | R² ~0.68
-- **Sleep Disorder (Classification):** Accuracy ~82% | Weighted F1 ~0.80
-- **Felt Rested (Binary):** AUC-ROC ~0.78 | Precision ~0.76
+### Baseline Model Performance (Random Forest, 80/20 split)
+- **Cognitive Performance (Regression):** MAE ~7.5 points | R² ~0.68 | RMSE ~12.2
+- **Sleep Disorder (Classification):** Accuracy ~82% | Weighted F1 ~0.80 | Cohen's Kappa ~0.74
+- **Felt Rested (Binary):** AUC-ROC ~0.78 | Precision ~0.76 | Recall ~0.73
 
 ## 🔍 Data Quality Assurance
 
