@@ -289,9 +289,16 @@ MIT License — Free for academic, commercial, and personal use with attribution
 ## 📞 Support & Contact
 
 For questions, suggestions, or dataset improvements:
-- Open an issue on GitHub
-- Check the [METHODOLOGY.md](METHODOLOGY.md) for technical deep-dives
-- Review [DATASET_DICTIONARY.md](DATASET_DICTIONARY.md) for feature reference
+- Open an issue on GitHub: https://github.com/mohan13krishna/Sleep-Health-Daily-Performance-Dataset/issues
+- Email: mohan13krishna@gmail.com
+- Check the generator script for reproducibility questions
+- Report data quality issues with specific record IDs
+
+### Contribute
+- Suggest improvements or feature additions
+- Report bugs or data inconsistencies
+- Share analysis insights using this dataset
+- Cite the dataset in your research
 
 ---
 
