@@ -202,10 +202,11 @@ Each occupation has distinct sleep patterns reflecting their work environment an
 
 ## 📖 Sources & References
 
-### Sleep Science
+### Sleep Science & Medicine
 - CDC Sleep Foundation. (2024). Sleep Health Guidelines.
 - Stickgold, R., & Walker, M. P. (2013). Sleep-dependent memory triage. *Nature Neuroscience*.
-- Framingham Heart Study — Sleep and Cardiovascular Health cohort
+- Framingham Heart Study — Sleep and Cardiovascular Health cohort (2020)
+- American Academy of Sleep Medicine (AASM) Clinical Practice Guidelines
 
 ### Occupational Sleep Patterns
 - Sleep Medicine Reviews (2022) — Shift work systematic review
