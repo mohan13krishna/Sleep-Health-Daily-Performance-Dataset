@@ -122,6 +122,7 @@ df = pd.read_csv('sleep_health_dataset.csv')
 print(df.shape)  # (100000, 32)
 print(df.dtypes)
 print(df.head())
+print(df.describe())
 ```
 
 ### Regression: Predict Cognitive Performance
