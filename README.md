@@ -13,6 +13,7 @@ A comprehensive research-grade dataset containing **100,000 records** with 32 ca
 - **Occupations:** 12 professional categories
 - **Countries:** 15 nations represented
 - **Data Quality:** ✅ All distributions validated against sleep medicine research
+- **File Size:** ~23.5 MB
 
 ## 🎯 Target Variables
 
