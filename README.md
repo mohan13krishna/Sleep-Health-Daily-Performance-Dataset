@@ -2,7 +2,7 @@
     
 **Subtitle:** 100K records · sleep, lifestyle & cognitive scores across 12 occupations   
   
-## 📊 Overview 
+## 📊 Overview  
  
 A comprehensive research-grade dataset containing **100,000 records** with 32 carefully engineered features capturing sleep patterns, lifestyle factors, psychological metrics, and cognitive performance across diverse occupations and demographics.
 
